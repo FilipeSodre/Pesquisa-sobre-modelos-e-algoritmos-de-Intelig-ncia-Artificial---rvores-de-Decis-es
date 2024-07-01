@@ -39,7 +39,7 @@
 
 Abaixo está um exemplo visual de uma árvore de decisão gerada pelo algoritmo ID3:
 
-![Árvore de Decisão ID3](file-pWL9E8pG3nBgzezK46mgu1Gt)
+![Árvore de Decisão ID3](ID3_tree.png)
 
 ### C4.5
 **Definição:** C4.5 é uma melhoria do ID3, com suporte para atributos contínuos, manuseio de dados faltantes e poda de árvore.
@@ -74,7 +74,7 @@ Abaixo está um exemplo visual de uma árvore de decisão gerada pelo algoritmo 
 
 Visualmente, as árvores de decisão geradas pelo C4.5 e C5.0 não apresentam diferenças significativas em relação à forma como os nós e folhas são organizados. Abaixo está um exemplo visual de uma árvore de decisão gerada pelo algoritmo C5.0, que poderia ser igualmente gerada pelo C4.5:
 
-![Árvore de Decisão C5.0](file-E4KlrTimZ3Yit61ZoPNBIhEy)
+![Árvore de Decisão C5.0](C50_tree.png)
 
 ## Diferenças entre os algoritmos ID3, C4.5 e C5.0
 
