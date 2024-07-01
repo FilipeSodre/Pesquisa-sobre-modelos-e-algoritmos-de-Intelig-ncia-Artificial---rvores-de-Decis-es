@@ -101,9 +101,3 @@ Visualmente, as árvores de decisão geradas pelo C4.5 e C5.0 não apresentam di
 
 Embora o C5.0 tenha algumas melhorias em relação ao C4.5, como maior velocidade e recursos adicionais, o C4.5 ainda é amplamente utilizado devido à sua disponibilidade gratuita e maturidade consolidada. A escolha entre os dois algoritmos dependerá das necessidades específicas do projeto e dos recursos disponíveis.
 
-**Citações:**
-- [1] https://www.hashtagtreinamentos.com/arvore-decisao-ciencia-dados
-- [2] https://seer.ufrgs.br/index.php/cadernosdeinformatica/article/view/v1n1p52-55/8809
-- [3] https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-arvoresdecisao.pdf
-- [4] https://www.dca.fee.unicamp.br/~vonzuben/courses/ea072_2s20/topico6_EA072_2s2020_Partes1e2.pdf
-- [5] https://dcm.ffclrp.usp.br/~augusto/teaching/ami/AM-I-Arvores-Decisao.pdf
